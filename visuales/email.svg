@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ 
+ <g class="layer">
+  <title>Email</title>
+  <circle cx="141.500001" cy="147.000008" fill="#ff0000" id="svg_1" r="134.404022" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="#ffffff" height="109" id="svg_14" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="196" x="43.5" y="91.5"/>
+  <path d="m73.443574,158.967361l0,-134.295194l135.105289,134.295194l-135.105289,0z" fill="#ffffff" id="svg_15" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-44.6576 140.996 91.8198)"/>
+  <line fill="none" id="svg_16" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="42.5" x2="108.5" y1="201.5" y2="158.499999"/>
+  <line fill="none" id="svg_17" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="242.5" x2="174.499993" y1="202.5" y2="154.499997"/>
+ </g>
+</svg>

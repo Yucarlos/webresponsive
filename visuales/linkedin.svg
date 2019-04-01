@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ 
+ <g class="layer">
+  <title>Layer 1</title>
+  <circle cx="141.500001" cy="151.000008" fill="#005fbf" id="svg_1" r="134.404022" stroke="#005fbf" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="#ffffff" height="125.000002" id="svg_4" stroke="#005fbf" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="44" x="58.5" y="99.499999"/>
+  <rect fill="#ffffff" height="125.000002" id="svg_5" stroke="#005fbf" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="44" x="108.5" y="98.999999"/>
+  <rect fill="#ffffff" height="88.000001" id="svg_7" stroke="#005fbf" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="44" x="188.5" y="136"/>
+  <ellipse cx="187.499999" cy="140.5" fill="#ffffff" id="svg_9" rx="40.000001" ry="37" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <ellipse cx="170.500001" cy="173" fill="#005fbf" id="svg_10" rx="18.000004" ry="40.500001" stroke="#005fbf" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <circle cx="79.5" cy="78.5" fill="#ffffff" id="svg_11" r="13" stroke="#ffffff" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+ </g>
+</svg>

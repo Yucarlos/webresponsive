@@ -1,0 +1,190 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    background-color: black;
+    margin: auto;
+    padding: 30px;
+
+}
+header {
+    background-color: #5b7989;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#cabecera {
+    background-color: #82c3a6;
+}
+#cuerpo {
+    background-color: #d5c75f;
+}
+
+footer {
+    background-color: #c6d5c5;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+header h1 {
+    font-size: 20px;
+    text-shadow:2px 2px #02010a;
+    width: 100%;
+    text-align: center;
+}
+header nav {
+    
+    width: 100%;
+    text-align: center;
+    
+    
+}
+ header nav a {
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+     
+ }
+ #cabecera {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.imagen1 img {
+    width: 80%;
+    box-shadow: 2px 2px black ;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+
+#cuerpo {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: black;
+
+}
+.imagen2 img {
+    width: 80%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+.imagen3 img {
+    width: 80%;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+
+footer {
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+}
+footer div {
+    width: 100%;
+}
+
+footer div img {
+    width: 10%;
+    
+}
+footer div h2 {
+    font-size: 20px;
+}
+
+
+@media (min-width: 900px) {
+header {
+    display: flex;
+    
+}
+
+header h1 {
+    font-size: 20px;
+    text-shadow:2px 2px #02010a;
+    width: 70%;
+    margin-left: 30px;
+}
+header nav {
+    margin-left: 20%;
+    margin-top: 15px;
+    width: 30%
+}
+
+header nav a {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    padding-right: 10px;
+}
+}
+@media (min-width: 900px) {
+    #cabecera {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .imagen1 img {
+        width: 60%;
+        box-shadow: 2px 2px black ;
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+
+}
+@media (min-width: 900px) {
+    #cuerpo {
+        margin-left: auto;
+        margin-right: auto;
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        color: black;
+        
+    }
+    .imagen2 img {
+        width: 80%;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    
+    }
+    .imagen3 img {
+        width: 80%;
+        margin-bottom: 25px;
+        margin-top: 25px;
+    }
+}
+@media (min-width: 900px) {
+    footer {
+        margin-left: auto;
+        margin-right: auto;
+        color:black;
+        display: flex;
+        flex-direction: row;
+        padding: 25px;
+    }
+    footer div {
+        width: 25%;
+    }
+    
+    footer div img {
+        width: 25%;
+        
+    }
+    footer div h2 {
+        font-size: 20px;
+    }
+    footer #miredes, #micontacto {
+        display: inline;    
+    
+    }
+}
+
+
+
